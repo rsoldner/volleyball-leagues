@@ -1,0 +1,3015 @@
+{
+  "schedule":
+  [
+    {
+      "date": "Date",
+      "court": 1,
+      "team1": "",
+      "team2": "",
+      "time": "Time"
+    },
+    {
+      "date": "Date",
+      "court": 2,
+      "team1": "",
+      "team2": "",
+      "time": "Time"
+    },
+    {
+      "date": "Date",
+      "court": 1,
+      "team1": "Team 1",
+      "team2": "Team 2",
+      "time": ""
+    },
+    {
+      "date": "Date",
+      "court": 2,
+      "team1": "Team 1",
+      "team2": "Team 2",
+      "time": ""
+    },
+    {
+      "date": "5/28/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Monkey",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "5/28/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Beer Pressure",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "5/28/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Here For Beer",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "5/28/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Blockbusters",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "5/28/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Deepak’s Virgins",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "5/28/2019",
+      "court": 2,
+      "team1": "Aces High",
+      "team2": "Chafing The Dream",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "5/29/2019",
+      "court": 1,
+      "team1": "Smack",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "5/29/2019",
+      "court": 2,
+      "team1": "Plan B",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "5/29/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "Phillippas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "5/29/2019",
+      "court": 2,
+      "team1": "Ginger Ninjas",
+      "team2": "Legends",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "5/29/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "One Hit Wonders",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "5/29/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Half Spiked",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "5/31/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Questionably Athletic",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "5/31/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "La Cabana Fiesta",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "5/31/2019",
+      "court": 1,
+      "team1": "Sand Sweat & Beers",
+      "team2": "Scared Hitless",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "5/31/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "5/31/2019",
+      "court": 1,
+      "team1": "Soldner",
+      "team2": "Spiked Punch",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "5/31/2019",
+      "court": 2,
+      "team1": "Stars & Spikes",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/3/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Deepak’s Virgins",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/3/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Block Party",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/3/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Choke On That Block",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/3/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Vollyagra",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/3/2019",
+      "court": 1,
+      "team1": "The Goodfellas",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/3/2019",
+      "court": 2,
+      "team1": "Croc O Shit",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/4/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Just The Tip",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/4/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Bumpin Uglies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/4/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Monkey",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/4/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "It’s All Good",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/4/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "Power Blackout",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/4/2019",
+      "court": 2,
+      "team1": "One Hit Wonders",
+      "team2": "Questionably Athletic",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/5/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/5/2019",
+      "court": 2,
+      "team1": "Legends",
+      "team2": "Little Rascals",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/5/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "Plan B",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/5/2019",
+      "court": 2,
+      "team1": "Shamwow",
+      "team2": "Smack",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/5/2019",
+      "court": 1,
+      "team1": "Sand Sweat & Beers",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/5/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Old Diggers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/6/2019",
+      "court": 1,
+      "team1": "The Goonies",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/6/2019",
+      "court": 2,
+      "team1": "Volleylama",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/6/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Little Rascals",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/6/2019",
+      "court": 2,
+      "team1": "Scared Hitless",
+      "team2": "Spiked Punch",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/6/2019",
+      "court": 1,
+      "team1": "The Goodfellas",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/6/2019",
+      "court": 2,
+      "team1": "Ron’s Rockin Dinosaurs",
+      "team2": "Stars & Spikes",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/7/2019",
+      "court": 1,
+      "team1": "Rons Rockers",
+      "team2": "What’s The Score",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/7/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "It’s All Good",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/7/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Deepak’s Virgins",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/7/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Blockbusters",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/7/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Choke On That Block",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/7/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Block Party",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/10/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "Power Blackout",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/10/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "La Cabana Fiesta",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/10/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "Questionably Athletic",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/10/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/10/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Just The Tip",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/10/2019",
+      "court": 2,
+      "team1": "Disqualified",
+      "team2": "Monkey",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/11/2019",
+      "court": 1,
+      "team1": "Rons Rockers",
+      "team2": "Croc O Shit",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/11/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/11/2019",
+      "court": 1,
+      "team1": "The Goodfellas",
+      "team2": "What’s The Score",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/11/2019",
+      "court": 2,
+      "team1": "Ron’s Rockin Dinosaurs",
+      "team2": "Volleylama",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/11/2019",
+      "court": 1,
+      "team1": "Scared Hitless",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/11/2019",
+      "court": 2,
+      "team1": "Sand Sweat & Beers",
+      "team2": "Spiked Punch",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/12/2019",
+      "court": 1,
+      "team1": "Plan B",
+      "team2": "Smack",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/12/2019",
+      "court": 2,
+      "team1": "Legends",
+      "team2": "Phillippas",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/12/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/12/2019",
+      "court": 2,
+      "team1": "Shamwow",
+      "team2": "The Goonies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/12/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Disqualified",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/12/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Blockbusters",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/13/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Phillippas",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/13/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Old Diggers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/13/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "Plan B",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/13/2019",
+      "court": 2,
+      "team1": "Choke On That Block",
+      "team2": "Just The Tip",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/13/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Here For Beer",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/13/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Bumpin Uglies",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/14/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "Scared Hitless",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/14/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/14/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "Sand Sweat & Beers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/14/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/14/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Monkey",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/14/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/17/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Soldner",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/17/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/17/2019",
+      "court": 1,
+      "team1": "Questionably Athletic",
+      "team2": "Spiked Punch",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/17/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Bumpin Uglies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/17/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/17/2019",
+      "court": 2,
+      "team1": "Chafing The Dream",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/18/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Croc O Shit",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/18/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Half Spiked",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/18/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "What’s The Score",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/18/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Old Diggers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/18/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Natty’s Daddy",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/18/2019",
+      "court": 2,
+      "team1": "Here For Beer",
+      "team2": "One Hit Wonders",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/19/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "Plan B",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/19/2019",
+      "court": 2,
+      "team1": "Legends",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/19/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Smack",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/19/2019",
+      "court": 2,
+      "team1": "Shamwow",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/19/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Power Blackout",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/19/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/20/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/20/2019",
+      "court": 2,
+      "team1": "Stars & Spikes",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/20/2019",
+      "court": 1,
+      "team1": "Smack",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/20/2019",
+      "court": 2,
+      "team1": "Sand Sweat & Beers",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/20/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Questionably Athletic",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/20/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/21/2019",
+      "court": 1,
+      "team1": "Scared Hitless",
+      "team2": "Rons Rockers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/21/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "It’s All Good",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/21/2019",
+      "court": 1,
+      "team1": "Soldner",
+      "team2": "Croc O Shit",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/21/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Half Spiked",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/21/2019",
+      "court": 1,
+      "team1": "Spiked Punch",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/21/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Bumpin Uglies",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/24/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Just The Tip",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/24/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/24/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Monkey",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/24/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Vollyagra",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/24/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Here For Beer",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/24/2019",
+      "court": 2,
+      "team1": "Chafing The Dream",
+      "team2": "Disqualified",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/25/2019",
+      "court": 1,
+      "team1": "Questionably Athletic",
+      "team2": "Soldner",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/25/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/25/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Spiked Punch",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/25/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/25/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/25/2019",
+      "court": 2,
+      "team1": "One Hit Wonders",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/26/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/26/2019",
+      "court": 2,
+      "team1": "Ginger Ninjas",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/26/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/26/2019",
+      "court": 2,
+      "team1": "Little Rascals",
+      "team2": "Smack",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/26/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/26/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "It’s All Good",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/27/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/27/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "La Cabana Fiesta",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/27/2019",
+      "court": 1,
+      "team1": "Plan B",
+      "team2": "The Goonies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/27/2019",
+      "court": 2,
+      "team1": "Aces High",
+      "team2": "Rons Rockers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/27/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/27/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Old Diggers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/28/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Natty’s Daddy",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/28/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "6/28/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "One Hit Wonders",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/28/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "6/28/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "6/28/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/1/2019",
+      "court": 1,
+      "team1": "Scared Hitless",
+      "team2": "The Goodfellas",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/1/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/1/2019",
+      "court": 1,
+      "team1": "Sand Sweat & Beers",
+      "team2": "Rons Rockers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/1/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Half Spiked",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/1/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Power Blackout",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/1/2019",
+      "court": 2,
+      "team1": "Just The Tip",
+      "team2": "Questionably Athletic",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/2/2019",
+      "court": 1,
+      "team1": "Soldner",
+      "team2": "What’s The Score",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/2/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Stars & Spikes",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/2/2019",
+      "court": 1,
+      "team1": "Spiked Punch",
+      "team2": "Croc O Shit",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/2/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "La Cabana Fiesta",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/2/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Just The Tip",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/2/2019",
+      "court": 2,
+      "team1": "Chafing The Dream",
+      "team2": "Monkey",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/3/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/3/2019",
+      "court": 2,
+      "team1": "Plan B",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/3/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "The Goonies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/3/2019",
+      "court": 2,
+      "team1": "Legends",
+      "team2": "Smack",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/3/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Disqualified",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/3/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/4/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/4/2019",
+      "court": 2,
+      "team1": "Ron’s Rockin Dinosaurs",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/4/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Plan B",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/4/2019",
+      "court": 2,
+      "team1": "Natty’s Daddy",
+      "team2": "Soldner",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/4/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Here For Beer",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/4/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Half Spiked",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/5/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "Spiked Punch",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/5/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "It’s All Good",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/5/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Sand Sweat & Beers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/5/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "La Cabana Fiesta",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/5/2019",
+      "court": 1,
+      "team1": "Questionably Athletic",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/5/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Old Diggers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/8/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "What’s The Score",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/8/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Stars & Spikes",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/8/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Croc O Shit",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/8/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/8/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/8/2019",
+      "court": 2,
+      "team1": "Choke On That Block",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/9/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Power Blackout",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/9/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/9/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Questionably Athletic",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/9/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Volleylama",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/9/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Natty’s Daddy",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/9/2019",
+      "court": 2,
+      "team1": "Monkey",
+      "team2": "One Hit Wonders",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/10/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "Smack",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/10/2019",
+      "court": 2,
+      "team1": "Little Rascals",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/10/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/10/2019",
+      "court": 2,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/10/2019",
+      "court": 1,
+      "team1": "Sand Sweat & Beers",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/10/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "It’s All Good",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/11/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "Phillippas",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/11/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Stars & Spikes",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/11/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Legends",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/11/2019",
+      "court": 2,
+      "team1": "Scared Hitless",
+      "team2": "What’s The Score",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/11/2019",
+      "court": 1,
+      "team1": "Soldner",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/11/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "La Cabana Fiesta",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/12/2019",
+      "court": 1,
+      "team1": "Spiked Punch",
+      "team2": "Rons Rockers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/12/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Old Diggers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/12/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Monkey",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/12/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/12/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Just The Tip",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/12/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/15/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Here For Beer",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/15/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/15/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Disqualified",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/15/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Old Diggers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/15/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/15/2019",
+      "court": 2,
+      "team1": "Natty’s Daddy",
+      "team2": "Spiked Punch",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/16/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Rons Rockers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/16/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/16/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/16/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/16/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/16/2019",
+      "court": 2,
+      "team1": "Questionably Athletic",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/17/2019",
+      "court": 1,
+      "team1": "Smack",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/17/2019",
+      "court": 2,
+      "team1": "Plan B",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/17/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "Little Rascals",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/17/2019",
+      "court": 2,
+      "team1": "Ginger Ninjas",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/17/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/17/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Vollyagra",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/18/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "Plan B",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/18/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "La Cabana Fiesta",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/18/2019",
+      "court": 1,
+      "team1": "Shamwow",
+      "team2": "Smack",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/18/2019",
+      "court": 2,
+      "team1": "Disqualified",
+      "team2": "Questionably Athletic",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/18/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/18/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Stars & Spikes",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/19/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Natty’s Daddy",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/19/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Stars & Spikes",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/19/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "One Hit Wonders",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/19/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/19/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Power Blackout",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/19/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Old Diggers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/22/2019",
+      "court": 1,
+      "team1": "Sand Sweat & Beers",
+      "team2": "What’s The Score",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/22/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/22/2019",
+      "court": 1,
+      "team1": "Scared Hitless",
+      "team2": "Croc O Shit",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/22/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Vollyagra",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/22/2019",
+      "court": 1,
+      "team1": "Soldner",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/22/2019",
+      "court": 2,
+      "team1": "Spiked Punch",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/23/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Questionably Athletic",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/23/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Blockbusters",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/23/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Power Blackout",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/23/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Beer Pressure",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/23/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "One Hit Wonders",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/23/2019",
+      "court": 2,
+      "team1": "Aces High",
+      "team2": "Natty’s Daddy",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/24/2019",
+      "court": 1,
+      "team1": "Plan B",
+      "team2": "Smack",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/24/2019",
+      "court": 2,
+      "team1": "Legends",
+      "team2": "Phillippas",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/24/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Little Rascals",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/24/2019",
+      "court": 2,
+      "team1": "The Goonies",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/24/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/24/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Half Spiked",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/25/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/25/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/25/2019",
+      "court": 1,
+      "team1": "Shamwow",
+      "team2": "The Goonies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/25/2019",
+      "court": 2,
+      "team1": "Here For Beer",
+      "team2": "Scared Hitless",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/25/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/25/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "La Cabana Fiesta",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/26/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Spiked Punch",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/26/2019",
+      "court": 2,
+      "team1": "Stars & Spikes",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/26/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/26/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Vollyagra",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/26/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/26/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Block Party",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/29/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Natty’s Daddy",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/29/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Bumpin Uglies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/29/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "One Hit Wonders",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/29/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "It’s All Good",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/29/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/29/2019",
+      "court": 2,
+      "team1": "Monkey",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/30/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Scared Hitless",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/30/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Old Diggers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/30/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Sand Sweat & Beers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/30/2019",
+      "court": 2,
+      "team1": "Ron’s Rockin Dinosaurs",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/30/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Questionably Athletic",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/30/2019",
+      "court": 2,
+      "team1": "Deepak’s Virgins",
+      "team2": "Power Blackout",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/31/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "Smack",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/31/2019",
+      "court": 2,
+      "team1": "Shamwow",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "7/31/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "Plan B",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/31/2019",
+      "court": 2,
+      "team1": "Ginger Ninjas",
+      "team2": "Phillippas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "7/31/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "7/31/2019",
+      "court": 2,
+      "team1": "Volleylama",
+      "team2": "Vollyagra",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/2/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Spiked Punch",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/2/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "It’s All Good",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/2/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/2/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Blockbusters",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/2/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/2/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Block Party",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Croc O Shit",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "La Cabana Fiesta",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "What’s The Score",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 2,
+      "team1": "Natty’s Daddy",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Croc O Shit",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/5/2019",
+      "court": 2,
+      "team1": "Ron’s Rockin Dinosaurs",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/6/2019",
+      "court": 1,
+      "team1": "Questionably Athletic",
+      "team2": "What’s The Score",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/6/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Vollyagra",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/6/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/6/2019",
+      "court": 2,
+      "team1": "Chafing The Dream",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/7/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/7/2019",
+      "court": 2,
+      "team1": "Ginger Ninjas",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/7/2019",
+      "court": 1,
+      "team1": "Plan B",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/7/2019",
+      "court": 2,
+      "team1": "Phillippas",
+      "team2": "Smack",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/7/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/7/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Blockbusters",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/8/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/8/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Old Diggers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/8/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Plan B",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/8/2019",
+      "court": 2,
+      "team1": "Disqualified",
+      "team2": "Scared Hitless",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/8/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Spiked Punch",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/8/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Bumpin Uglies",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/9/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Soldner",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/9/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/9/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Spiked Punch",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/9/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/9/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/9/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/12/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "Rons Rockers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/12/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/12/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/12/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Bumpin Uglies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/12/2019",
+      "court": 1,
+      "team1": "Questionably Athletic",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/12/2019",
+      "court": 2,
+      "team1": "Power Blackout",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/13/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Power Blackout",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/13/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Half Spiked",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/13/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Questionably Athletic",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/13/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Old Diggers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/13/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "One Hit Wonders",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/13/2019",
+      "court": 2,
+      "team1": "Choke On That Block",
+      "team2": "Natty’s Daddy",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/14/2019",
+      "court": 1,
+      "team1": "Phillippas",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/14/2019",
+      "court": 2,
+      "team1": "Little Rascals",
+      "team2": "Smack",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/14/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/14/2019",
+      "court": 2,
+      "team1": "Plan B",
+      "team2": "The Goonies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/14/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/14/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/15/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Shamwow",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/15/2019",
+      "court": 2,
+      "team1": "Stars & Spikes",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/15/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "ZeePellz",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/15/2019",
+      "court": 2,
+      "team1": "Just The Tip",
+      "team2": "Sand Sweat & Beers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/15/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Spiked Punch",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/15/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/16/2019",
+      "court": 1,
+      "team1": "Power Blackout",
+      "team2": "Rons Rockers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/16/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "It’s All Good",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/16/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/16/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Half Spiked",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/16/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/16/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Bumpin Uglies",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/19/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Soldner",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/19/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/19/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Questionably Athletic",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/19/2019",
+      "court": 2,
+      "team1": "La Cabana Fiesta",
+      "team2": "Volleylama",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/19/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/19/2019",
+      "court": 2,
+      "team1": "Here For Beer",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/20/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "One Hit Wonders",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/20/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Stars & Spikes",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/20/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Natty’s Daddy",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/20/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/20/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/20/2019",
+      "court": 2,
+      "team1": "Just The Tip",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/21/2019",
+      "court": 1,
+      "team1": "Smack",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/21/2019",
+      "court": 2,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/21/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "Plan B",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/21/2019",
+      "court": 2,
+      "team1": "Phillippas",
+      "team2": "The Goonies",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/21/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Spiked Punch",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/21/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "It’s All Good",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/22/2019",
+      "court": 1,
+      "team1": "Ginger Ninjas",
+      "team2": "Smack",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/22/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "Old Diggers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/22/2019",
+      "court": 1,
+      "team1": "Legends",
+      "team2": "Shamwow",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/22/2019",
+      "court": 2,
+      "team1": "Questionably Athletic",
+      "team2": "Rons Rockers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/22/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/22/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "La Cabana Fiesta",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/23/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Power Blackout",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/23/2019",
+      "court": 2,
+      "team1": "Block Party",
+      "team2": "Volleylama",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/23/2019",
+      "court": 1,
+      "team1": "Disqualified",
+      "team2": "What’s The Score",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/23/2019",
+      "court": 2,
+      "team1": "Ball Smashers 2",
+      "team2": "Stars & Spikes",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/23/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/23/2019",
+      "court": 2,
+      "team1": "Half Spiked",
+      "team2": "Ron’s Rockin Dinosaurs",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/26/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Sand Sweat & Beers",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/26/2019",
+      "court": 2,
+      "team1": "Beer Pressure",
+      "team2": "Half Spiked",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/26/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Scared Hitless",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/26/2019",
+      "court": 2,
+      "team1": "Blockbusters",
+      "team2": "Vollyagra",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/26/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "What’s The Score",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/26/2019",
+      "court": 2,
+      "team1": "Natty’s Daddy",
+      "team2": "Croc O Shit",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/27/2019",
+      "court": 1,
+      "team1": "Aces High",
+      "team2": "Soldner",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/27/2019",
+      "court": 2,
+      "team1": "It’s All Good",
+      "team2": "Stars & Spikes",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/27/2019",
+      "court": 1,
+      "team1": "Chafing The Dream",
+      "team2": "Spiked Punch",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/27/2019",
+      "court": 2,
+      "team1": "Bumpin Uglies",
+      "team2": "La Cabana Fiesta",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/27/2019",
+      "court": 1,
+      "team1": "Just The Tip",
+      "team2": "Rons Rockers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/27/2019",
+      "court": 2,
+      "team1": "Power Blackout",
+      "team2": "The Goodfellas",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/28/2019",
+      "court": 1,
+      "team1": "Little Rascals",
+      "team2": "The Goonies",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/28/2019",
+      "court": 2,
+      "team1": "Phillippas",
+      "team2": "ZeePellz",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/28/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/28/2019",
+      "court": 2,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/28/2019",
+      "court": 1,
+      "team1": "Choke On That Block",
+      "team2": "Scared Hitless",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/28/2019",
+      "court": 2,
+      "team1": "Old Diggers",
+      "team2": "Volleylama",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/29/2019",
+      "court": 1,
+      "team1": "One Hit Wonders",
+      "team2": "Croc O Shit",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/29/2019",
+      "court": 2,
+      "team1": "Ron’s Rockin Dinosaurs",
+      "team2": "Vollyagra",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/29/2019",
+      "court": 1,
+      "team1": "Questionably Athletic",
+      "team2": "The Goodfellas",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/29/2019",
+      "court": 2,
+      "team1": "Disqualified",
+      "team2": "Spiked Punch",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/29/2019",
+      "court": 1,
+      "team1": "Deepak’s Virgins",
+      "team2": "Sand Sweat & Beers",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/29/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/30/2019",
+      "court": 1,
+      "team1": "Natty’s Daddy",
+      "team2": "What’s The Score",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/30/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "8/30/2019",
+      "court": 1,
+      "team1": "Monkey",
+      "team2": "Rons Rockers",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/30/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "8/30/2019",
+      "court": 1,
+      "team1": "Here For Beer",
+      "team2": "Soldner",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "8/30/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/2/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/2/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/2/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/2/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/2/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/2/2019",
+      "court": 2,
+      "team1": "White",
+      "team2": "White",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/3/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/3/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/3/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/3/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/3/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/3/2019",
+      "court": 2,
+      "team1": "White",
+      "team2": "White",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/4/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/4/2019",
+      "court": 2,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/4/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/4/2019",
+      "court": 2,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/4/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/4/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/5/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/5/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "6:30 PM"
+    },
+    {
+      "date": "9/5/2019",
+      "court": 1,
+      "team1": "Blue",
+      "team2": "Blue",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/5/2019",
+      "court": 2,
+      "team1": "White",
+      "team2": "White",
+      "time": "7:45 PM"
+    },
+    {
+      "date": "9/5/2019",
+      "court": 1,
+      "team1": "White",
+      "team2": "White",
+      "time": "9:00 PM"
+    },
+    {
+      "date": "9/5/2019",
+      "court": 2,
+      "team1": "Red",
+      "team2": "Red",
+      "time": "9:00 PM"
+    }
+  ]
+}
