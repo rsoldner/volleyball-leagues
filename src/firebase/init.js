@@ -3,7 +3,7 @@ import firebase from 'firebase'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: 'AIzaSyBT6ZAtwFQtfjMrG4a3GA-HKivJMVPj7wI',
+  apiKey: 'AIzaSyCS0R63bjcR60m-hCAeJ4cxsYJjBsyqxf0',
   authDomain: 'gators-volleyball.firebaseapp.com',
   databaseURL: 'https://gators-volleyball.firebaseio.com',
   projectId: 'gators-volleyball',

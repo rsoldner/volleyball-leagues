@@ -15,3 +15,5 @@ yarn-error.log*
 data/serviceAccount.json
 firebase/init.js
 data/config.js
+src/firebase/init.js
+.firebase/hosting.ZGlzdA.cache
