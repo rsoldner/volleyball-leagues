@@ -138,6 +138,12 @@ export default {
     myTeam(item, type) {
       if (!item) return
       if (!this.search_team) return
+
+      console.log(item)
+      if (item == this.search_team) {
+        return 'bg-info'
+      }
+      return ''
     }
   }
 }
