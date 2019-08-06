@@ -3,24 +3,32 @@
         <h2>Schedule</h2>
         <div class="row">
 
-          <b-form inline @submit.prevent='fetchSchedule()'>
-            <b-input
-              align-h="end"
-              id='input-search-team'
-              v-model='search_team'
-              type='text'
-              required
-              placeholder='Team name to search for'
-            ></b-input>
-            <!-- TODO use Datalist -->
-            <b-button
-              v-if="!search_loading"
-              type='submit'
-              align-h='end'
-              variant='info'
-              >Search</b-button>
-            <b-spinner v-else variant="info" label="Spinning"></b-spinner>
-          </b-form>
+          <b-col cols="4">
+            <b-form inline @submit.prevent='fetchSchedule()'>
+              <b-input
+                align-h="end"
+                id='input-search-team'
+                v-model='search_team'
+                type='text'
+                required
+                placeholder='Team name to search for'
+              ></b-input>
+              <!-- TODO use Datalist -->
+              <b-button
+                v-if="!search_loading"
+                type='submit'
+                align-h='end'
+                variant='info'
+                >Search</b-button>
+              <b-spinner v-else variant="info" label="Spinning"></b-spinner>
+            </b-form>
+          </b-col>
+          <b-col cols="8">
+            <div class="d-flex justify-content-end">
+              <b-button class="padding-left" :pressed="displayAll" @click="displayAll=true" variant="info">All</b-button>
+              <b-button class="padding-left" :pressed="!displayAll" @click="displayAll=false" variant="info">Upcoming</b-button>
+            </div>
+          </b-col>
         </div>
         <div class="table-padding row">
           <div class="center" v-if="games.length==0"><b-spinner></b-spinner></div>
@@ -30,7 +38,7 @@
             hover
             :fields="fields"
             :tbody-tr-class="gamesInPast"
-            :items="games"></b-table>
+            :items="gamesToDisplay"></b-table>
         </div>
     </div>
 </template>
@@ -48,9 +56,6 @@ export default {
           key: 'date'
         },
         {
-          key: 'time'
-        },
-        {
           key: 'court'
         },
         {
@@ -63,6 +68,7 @@ export default {
         },
 
       ],
+      displayAll: true,
       games: [],
       search_loading: false,
       search_team: null
@@ -71,6 +77,20 @@ export default {
   created() {
     this.fetchSchedule()
   },
+  computed: {
+    gamesToDisplay() {
+      if (this.displayAll) {
+        return this.games
+      }
+      let newArr = this.games.filter((item) => {
+        if (moment().isBefore(moment.unix(item.timestamp).format('llll'))) {
+          return true
+        }
+        return false
+      })
+      return newArr
+    }
+  },
   methods: {
     fetchSchedule() {
       // Reset games array when fetching the schedule
@@ -78,36 +98,39 @@ export default {
       if (this.search_team) {
         db.collection('schedule')
           .where('team1', '==', this.search_team)
-          .orderBy('date').get()
+          .orderBy('timestamp').get()
           .then((games) => {
-            games.docs.forEach((game) => {
-              this.games.push(game.data())
-            })
+            this.storeGames(games)
           })
         db.collection('schedule')
           .where('team2', '==', this.search_team)
-          .orderBy('date').get()
+          .orderBy('timestamp').get()
           .then((games) => {
-            games.docs.forEach((game) => {
-              this.games.push(game.data())
-            })
+            this.storeGames(games)
           })
       } else {
         db.collection('schedule')
-          .orderBy('date')
+          .orderBy('timestamp')
           .get()
-          .then((games) => {
-            games.docs.forEach((game) => {
-              this.games.push(game.data())
-            })
+          .then((g) => {
+            this.storeGames(g)
           })
       }
+    },
+
+    storeGames(gamesArr) {
+      gamesArr.docs.forEach((game) => {
+        let gameData = game.data()
+        gameData.date = moment.unix(gameData.timestamp).format('lll')
+        gameData.id = game.id
+        this.games.push(gameData)
+      })
     },
 
     gamesInPast(item, type) {
       if (!item) return
       // timestamp: moment(doc.data().timestamp).format('lll'),
-      if (moment().isAfter(moment(item.date).format('M/D/YYYY'))) {
+      if (moment().isAfter(moment.unix(item.timestamp).format('llll'))) {
         return 'table-row-strikethrough'
       }
     },
@@ -115,7 +138,6 @@ export default {
     myTeam(item, type) {
       if (!item) return
       if (!this.search_team) return
-      console.log(item)
     }
   }
 }

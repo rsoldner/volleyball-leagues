@@ -1,6 +1,7 @@
 
 import csv
 import json
+import time
 
 teamName = 'Soldner'
 
@@ -13,19 +14,23 @@ def get_full_schedule():
             if( row[1] != '' ):
                 day = row[1]
             if(row[3] =='#'):
-                next
+                continue
+            if(day == 'Date'):
+                continue
+
+            pattern = '%m/%d/%Y %I:%M %p'
+            datetime_str = "{} {}".format(day,row[2])
+            epoch = int(time.mktime(time.strptime(datetime_str,pattern)))
 
             games.append({
                 'court': 1,
-                'date': day,
-                'time': row[2],
+                'timestamp': epoch,
                 'team1': row[4],
                 'team2': row[5]
             })
             games.append({
                 'court': 2,
-                'date': day,
-                'time': row[2],
+                'timestamp': epoch,
                 'team1': row[8],
                 'team2': row[9]
             })
